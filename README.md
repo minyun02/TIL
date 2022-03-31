@@ -1,5 +1,9 @@
 # TIL
 
+> 새롭게 공부한 내용들의 발자취!  
+> 목표 : 하나씩 급하지 않고 꾸준히 배워가자
+
+<br>
 <details>
 <summary>자바/스프링</summary>
 <div markdown="1">
@@ -11,6 +15,9 @@
 </div>
 </details>
 
+---------------------------------------
+
+<br>
 <details>
 <summary>자바스크립트</summary>
 <div markdown="1">
@@ -23,6 +30,9 @@
 </div>
 </details>
 
+---------------------------------------
+
+<br>
 <details>
 <summary>리액트</summary>
 <div markdown="1">
@@ -36,6 +46,9 @@
 </div>
 </details>
 
+---------------------------------------
+
+<br>
 <details>
 <summary>네트워크</summary>
 <div markdown="1">
@@ -47,6 +60,9 @@
 </div>
 </details>
 
+---------------------------------------
+
+<br>
 <details>
 <summary>알고리즘</summary>
 <div markdown="1">
@@ -57,3 +73,7 @@
 
 </div>
 </details>
+
+---------------------------------------
+
+<br>
