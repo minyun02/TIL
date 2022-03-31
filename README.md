@@ -24,7 +24,7 @@
 
 |번호|제목|
 |--|--|
-|1|[ES6 Map, Filter, Reduce 기능을 알아보자](https://doingsomething.tistory.com/76){:target="_blank"}|
+|1|[ES6 Map, Filter, Reduce 기능을 알아보자](https://doingsomething.tistory.com/76)|
 |2|[ES6 find(), findIndex() 사용법을 알아보자!](https://doingsomething.tistory.com/77)|
 |3|[배열과 객체의 구조 분해 할당을 알아보자!](https://doingsomething.tistory.com/81)|
 </div>
