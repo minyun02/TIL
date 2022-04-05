@@ -58,7 +58,8 @@
 
 |번호|제목|
 |--|--|
-
+|1|[프로토콜이란!?](https://doingsomething.tistory.com/84)|
+|1|[OSI 모델이란!?](https://doingsomething.tistory.com/85)|
 
 </div>
 </details>
