@@ -60,7 +60,8 @@
 |--|--|
 |1|[프로토콜이란!?](https://doingsomething.tistory.com/84)|
 |2|[OSI 모델이란!?](https://doingsomething.tistory.com/85)|
-
+|3|[OSI 모델 - Application Layer(layer 7)](https://doingsomething.tistory.com/86)|
+|4|[OSI 모델 - Presentation Layer(layer 6)!?](https://doingsomething.tistory.com/86)|
 
 </div>
 </details>
