@@ -5,8 +5,22 @@
 
 <br>
 <details>
-<summary>자바/스프링</summary>
+<summary>자바</summary>
 <div markdown="1">
+
+|번호|제목|
+|--|--|
+|1|[객체 지향 언어의 특징인 상속을 알아보자!](https://doingsomething.tistory.com/89)|
+
+
+</div>
+</details>
+
+---------------------------------------
+<br>
+<details>
+<summary>스프링</summary>
+<div markdown="2">
 
 |번호|제목|
 |--|--|
@@ -20,7 +34,7 @@
 <br>
 <details>
 <summary>자바스크립트</summary>
-<div markdown="1">
+<div markdown="3">
 
 |번호|제목|
 |--|--|
@@ -35,7 +49,7 @@
 <br>
 <details>
 <summary>리액트</summary>
-<div markdown="1">
+<div markdown="4">
 
 |번호|제목|
 |--|--|
@@ -54,7 +68,7 @@
 <br>
 <details>
 <summary>네트워크</summary>
-<div markdown="1">
+<div markdown="5">
 
 |번호|제목|
 |--|--|
@@ -62,6 +76,7 @@
 |2|[OSI 모델이란!?](https://doingsomething.tistory.com/85)|
 |3|[OSI 모델 - Application Layer(layer 7)](https://doingsomething.tistory.com/86)|
 |4|[OSI 모델 - Presentation Layer(layer 6)!?](https://doingsomething.tistory.com/86)|
+|5|[OSI 모델 - Session Layer(layer 5)!?](https://doingsomething.tistory.com/88)|
 
 </div>
 </details>
@@ -71,7 +86,7 @@
 <br>
 <details>
 <summary>알고리즘</summary>
-<div markdown="1">
+<div markdown="6">
 
 |번호|제목|
 |--|--|
