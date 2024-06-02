@@ -34,9 +34,10 @@
 <summary>Spring framework</summary>
 <div markdown="3">
 
-|번호|제목|
-|--|--|
-|1|[@Transactional을 왜 사용하고 어떤 기능이 있나?.md](https://github.com/minyun02/TIL/blob/main/Spring/%40Transactional%EC%9D%84%20%EC%99%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%96%B4%EB%96%A4%20%EA%B8%B0%EB%8A%A5%EC%9D%B4%20%EC%9E%88%EB%82%98%3F.md)|
+| 번호 |제목|
+|----|--|
+| 1  |[@Transactional을 왜 사용하고 어떤 기능이 있나?](https://github.com/minyun02/TIL/blob/main/Spring/%40Transactional%EC%9D%84%20%EC%99%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%96%B4%EB%96%A4%20%EA%B8%B0%EB%8A%A5%EC%9D%B4%20%EC%9E%88%EB%82%98%3F.md)|
+| 2  |[주입할 스프링 빈이 없어도 동작해야 하는 경우](https://github.com/minyun02/TIL/blob/main/Spring/%EC%A3%BC%EC%9E%85%ED%95%A0%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B9%88%EC%9D%B4%20%EC%97%86%EC%96%B4%EB%8F%84%20%EB%8F%99%EC%9E%91%ED%95%B4%EC%95%BC%20%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%B2%98%EB%A6%AC%ED%95%A0%20%EC%88%98%20%EC%9E%88%EC%9D%84%EA%B9%8C%3F.md)|
 
 </div>
 </details>
