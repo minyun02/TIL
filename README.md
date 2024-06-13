@@ -31,7 +31,7 @@
 ---------------------------------------
 <br>
 <details>
-<summary>Computer Science</summary>
+<summary>Spring framework</summary>
 <div markdown="3">
 
 | 번호 |제목|
@@ -45,7 +45,7 @@
 ---------------------------------------
 <br>
 <details>
-<summary>Spring framework</summary>
+<summary>Computer Science</summary>
 <div markdown="4">
 
 | 번호 |제목|
