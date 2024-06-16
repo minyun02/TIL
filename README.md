@@ -11,6 +11,9 @@
 |--|--|
 |1|[병렬처리란?](https://github.com/minyun02/TIL/blob/main/Java/%EB%B3%91%EB%A0%AC%20%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)|
 |2|[람다 표현식](https://github.com/minyun02/TIL/blob/main/Java/%EB%9E%8C%EB%8B%A4%20%ED%91%9C%ED%98%84%EC%8B%9D.md)|
+|2|[동시성을 해결해주는 자료구조는 어떤게 있나?]([https://github.com/minyun02/TIL/blob/main/Java/%EB%9E%8C%EB%8B%A4%20%ED%91%9C%ED%98%84%EC%8B%9D.md](https://github.com/minyun02/TIL/blob/main/Java/%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%84%20%ED%95%B4%EA%B2%B0%ED%95%B4%EC%A3%BC%EB%8A%94%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%8A%94%20%EC%96%B4%EB%96%A4%EA%B2%8C%20%EC%9E%88%EB%82%98%3F.md))|
+
+
 
 </div>
 </details>
