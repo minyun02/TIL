@@ -30,6 +30,7 @@
 |--|--|
 |1|[@CreatedDate](https://github.com/minyun02/TIL/blob/main/JPA/%40CreatedDate.md)|
 |2|[프로젝트를 하다가 JPA의 지연 로딩과 프록시를 만났다](https://github.com/minyun02/TIL/blob/d8750436afd43b53cd1e9622795480fc6b2f3da1/JPA/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%ED%95%98%EB%8B%A4%EA%B0%80%20JPA%EC%9D%98%20%EC%A7%80%EC%97%B0%20%EB%A1%9C%EB%94%A9%EA%B3%BC%20%ED%94%84%EB%A1%9D%EC%8B%9C%EB%A5%BC%20%EB%A7%8C%EB%82%AC%EB%8B%A4.md)|
+|3|[JPA로 soft delete를 어떻게 구현할까?](https://github.com/minyun02/TIL/blob/main/JPA/JPA%EB%A1%9C%20soft%20delete%EB%A5%BC%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EA%B5%AC%ED%98%84%ED%95%A0%EA%B9%8C%3F.md)|
 
 
 </div>
